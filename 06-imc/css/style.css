@@ -1,0 +1,25 @@
+body {
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightgray;
+}
+
+#p-result {
+  margin-top: 50px;
+}
+
+input {
+  width: 100px;
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+label {
+  font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+button {
+  padding: 10px;
+  border-radius: 5px;
+  border-width: 1px;
+}
